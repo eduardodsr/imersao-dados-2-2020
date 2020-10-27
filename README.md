@@ -1,13 +1,18 @@
-# IMERSÃO DADOS :white_check_mark:
+# IMERSÃO DADOS 2º EDIÇÃO - ALURA 📊 
 
-Alura - Imersão Dados 2ª Edição!
+[![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardodsr/)
+![GitHub repo size](https://img.shields.io/github/repo-size/eduardodsr/imersao-dados-2-2020)
+![GitHub top language](https://img.shields.io/github/languages/top/eduardodsr/imersao-dados-2-2020)
+![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/imersao-dados-2-2020)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.Dimersao-dados-2-2020)
 
-## Cronograma
+
+## Cronograma 
 
 -  Data de Início: 19/10/2020
 -  Data de Término: 24/10/2020
 
-## Informações
+## Informações sobre Imersão Dados 2ª Edição
 
 - 5 aulas exclusivas e inéditas!
 - De 19 a 24 de outubro, AULAS COMPLETAS E LIVES
@@ -25,19 +30,19 @@ Alura - Imersão Dados 2ª Edição!
 
 ##  Instrutores nessa Imersão
 
-### Thiago G. Santos
+**Thiago G. Santos**
 - Coordenador de Data Science Alura
  
-### Thainá Mariani
+**Thainá Mariani**
 I- nstrutora Alura
 
-### Guilherme Silveira
+**Guilherme Silveira**
 - Head de dados e inovação Alura
   
-### Maria Gabriela Cuenca
+**Maria Gabriela Cuenca**
 - Student Experience
  
-
+# CONTEÚDO DAS AULAS:
 
 ## AULA 1 - Sua primeira análise em dados da Educação
 
@@ -80,7 +85,6 @@ A
 
 ## AULA 2 - Análise Exploratória de Dados
 
-
 ### Introdução
 
 Nessa aula avançaremos com nossas análises e discutiremos sobre visualização de dados, desde boas práticas até a utilização de uma nova ferramenta para gerar gráficos mais estilizados (seaborn).
@@ -105,9 +109,7 @@ Link: https://colab.research.google.com/drive/1Z5BZDmU0voknsU75r-LkozQ9FRnBxEeM?
  Link: https://github.com/alura-cursos/imersao-dados-2-2020/blob/master/MICRODADOS_ENEM_2019_SAMPLE_43278.csv
 
 
-
 ## AULA 3 - Distribuições e Correlações entre notas
-
 
 A aula de hoje está cheia de discusões interessantes sobre nossos dados! Vamos analisar as distribuições de notas, suas relações usando gráficos de dispersão e discutiremos sobre correlação e causalidade.
 
@@ -174,12 +176,11 @@ Bons estudos e até a próxima aula!
 
 ## LIVES
 
+**#1 Carreira em Dados e Educação no Brasil**
 
-#1 Carreira em Dados e Educação no Brasil
+**#2 Data Science no Exterior**
 
-#2 Data Science no Exterior
+**#3 DataHackers, Storytelling e o Bootcamp Data Science Aplicada**
 
-#3 DataHackers, Storytelling e o Bootcamp Data Science Aplicada
-
-#4 Lançamento do Bootcam e Encerramento da Imersão p - ative o lembrete! (27/10 às 18H30)
+**#4 Lançamento do Bootcam e Encerramento da Imersão p - ative o lembrete! (27/10 às 18H30)**
 
