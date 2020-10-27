@@ -7,7 +7,7 @@
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.Dimersao-dados-2-2020)
 
  <p align="center">
-  <img src=blob:https://imgur.com/84bb8471-f89f-4b4e-85f0-cf0b74e62963?raw=true" alt="imagem" width="300px" />
+  <img src=https://i.imgur.com/oFuDWbU.jpg?raw=true" alt="imagem" width="300px" />
  </p>
 
 
