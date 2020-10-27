@@ -6,7 +6,9 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/imersao-dados-2-2020)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.Dimersao-dados-2-2020)
 
-Página em Construção !!!
+ <p align="center">
+  <img src=https://i.imgur.com/oFuDWbU.jpg?raw=true" alt="imagem" width="600px" />
+ </p>
 
 
 ## Cronograma 
@@ -43,6 +45,10 @@ Página em Construção !!!
   
 **Maria Gabriela Cuenca**
 - Student Experience
+                                                                              
+ <p align="center">
+  <img src=https://i.imgur.com/hhukfre.png?raw=true" alt="imagem" width="600px" />
+ </p>
  
 # CONTEÚDO DAS AULAS:
 
@@ -59,9 +65,14 @@ Na nossa análise de dados vamos descobrir curiosidades sobre inscritos no ENEM,
 formular hipóteses e gráficos de distribuição Box-plot para entender melhor alguns aspectos 
 da educação brasileira.
 
+### Resumo
+
+Começada a exploração com a apresentação de um dataset, como carregá-lo para um notebook, os primeiros tratamentos de dados, limpeza, análise do formato dos
+dados. Nele já colocamos em prática alguns gráficos para começar a ter insights de como eram as informações contidas e analisando estatisticamente.
+
 ### Links e notebooks:
 
-- Link !
+``` link: ``` https://github.com/eduardodsr/imersao-dados-2-2020/tree/master/Aulas/
 
 
 ### Links das base de dados:
@@ -93,49 +104,74 @@ https://github.com/eduardodsr/imersao-dados-2-2020/tree/master/DICION%C3%81RIO
 
 Nessa aula avançaremos com nossas análises e discutiremos sobre visualização de dados, desde boas práticas até a utilização de uma nova ferramenta para gerar gráficos mais estilizados (seaborn).
 
+### Resumo
+
+Foi explorado mais o dataset, criando novas visualizações e análises para entender o que os dados podem nos trazer de idéias. Foram levantadas informações relevantes
+como a diferença das notas de quem tinha ou não internet, assim como como era a distribuição por classe social de quem estava apenas treinando.
+
 ### Links e notebooks
 
-- Link
+``` link: ``` https://github.com/eduardodsr/imersao-dados-2-2020/tree/master/Aulas/
 
 ## AULA 3 - Distribuições e Correlações entre notas
 
+### Introdução
+
 A aula de hoje está cheia de discusões interessantes sobre nossos dados! Vamos analisar as distribuições de notas, suas relações usando gráficos de dispersão e discutiremos sobre correlação e causalidade.
+
+### Resumo
+
+Foi analisado como eram as distribuições de notas em alguns parâmetros, suas relações com gráficos de disperção e realizada a discussão sobre causalidade e correlação.
 
 ### Links e notebooks
 
-- Link
+``` link: ``` https://github.com/eduardodsr/imersao-dados-2-2020/tree/master/Aulas/
 
 ## AULA 4 - Prevendo Notas com Machine Learning
 
 ### Introdução 
+
 Nessa aula vamos construir nosso primeiro modelo de Machine Learning, entender a diferença entre problemas de regressão e classificação e como avaliar nosso modelo, utilizando a biblioteca Scikit-Learning.
+
+### Resumo
+
+Foi criado o primeiro modelo de machine learning para prever notas, entendemos a diferença entre a regressão e classificação e como avaliar o modelo usando a biblioteca do Scikit-Learning.
 
 ### Links e notebooks
 
-- Link
+``` link: ``` https://github.com/eduardodsr/imersao-dados-2-2020/tree/master/Aulas/
 
 ## AULA 5 - Validação de modelo e Overfit
 
 ### Introdução
+
 Vamos mergulhar mais fundo no mundo do machine learning, discutiremos técnicas, como cross-validation, que ajudam a aumentar nossa confiança nos resultados dos modelos de machine learning e mostraremos para você o tão temido overfit acontecendo.
 
-### Desfio Final
-Como avisamos na terceira aula, o desafio consta em explorar a base de dados do ENEM 2019. 
+### Resumo
+
+Foi aprofundado o tema de machine learning e discutidas técnicas de cross-validation, que nos ajudaram a aumentar a confiança nos resultados dos modelos apresentados.
+Apresentados ao tão temido overfit e criada a discussão sobre overfit e os intervalos de confiança.
+
+
+## DESAFIO FINAL
+
+O desafio consta em explorar a base de dados do ENEM 2019. 
+
 Crie um notebook com suas análises, capriche nos gráficos, crie hipótese e tire suas conclusões.
 
 ### Links e notebooks
 
-- Link
+``` link: ``` https://github.com/eduardodsr/imersao-dados-2-2020/tree/master/Aulas/
 
 ## LIVES
 
-***#1 Carreira em Dados e Educação no Brasil***
+***#1 Carreira em Dados e Educação no Brasil*** :x:
 
-***#2 Data Science no Exterior***
+***#2 Data Science no Exterior*** :x:
 
-***#3 DataHackers, Storytelling e o Bootcamp Data Science Aplicada***
+***#3 DataHackers, Storytelling e o Bootcamp Data Science Aplicada*** :x:
 
-***#4 Lançamento do Bootcam e Encerramento da Imersão p - ative o lembrete! (27/10 às 18H30)***
+***#4 Lançamento do Bootcam e Encerramento da Imersão p - ative o lembrete! (27/10 às 18H30)*** :x:
 
 
 ### CONTATO: :mailbox_with_no_mail:
