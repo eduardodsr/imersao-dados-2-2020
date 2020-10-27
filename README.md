@@ -61,7 +61,7 @@ da educação brasileira.
 
 ### Links e notebooks:
 
-- Link !
+``` link: ``` https://github.com/eduardodsr/imersao-dados-2-2020/tree/master/Aulas/
 
 
 ### Links das base de dados:
@@ -95,7 +95,7 @@ Nessa aula avançaremos com nossas análises e discutiremos sobre visualização
 
 ### Links e notebooks
 
-- Link
+``` link: ``` https://github.com/eduardodsr/imersao-dados-2-2020/tree/master/Aulas/
 
 ## AULA 3 - Distribuições e Correlações entre notas
 
@@ -103,7 +103,7 @@ A aula de hoje está cheia de discusões interessantes sobre nossos dados! Vamos
 
 ### Links e notebooks
 
-- Link
+``` link: ``` https://github.com/eduardodsr/imersao-dados-2-2020/tree/master/Aulas/
 
 ## AULA 4 - Prevendo Notas com Machine Learning
 
@@ -112,7 +112,7 @@ Nessa aula vamos construir nosso primeiro modelo de Machine Learning, entender a
 
 ### Links e notebooks
 
-- Link
+``` link: ``` https://github.com/eduardodsr/imersao-dados-2-2020/tree/master/Aulas/
 
 ## AULA 5 - Validação de modelo e Overfit
 
@@ -125,17 +125,17 @@ Crie um notebook com suas análises, capriche nos gráficos, crie hipótese e ti
 
 ### Links e notebooks
 
-- Link
+``` link: ``` https://github.com/eduardodsr/imersao-dados-2-2020/tree/master/Aulas/
 
 ## LIVES
 
-***#1 Carreira em Dados e Educação no Brasil***
+***#1 Carreira em Dados e Educação no Brasil*** :x:
 
-***#2 Data Science no Exterior***
+***#2 Data Science no Exterior*** :x:
 
-***#3 DataHackers, Storytelling e o Bootcamp Data Science Aplicada***
+***#3 DataHackers, Storytelling e o Bootcamp Data Science Aplicada*** :x:
 
-***#4 Lançamento do Bootcam e Encerramento da Imersão p - ative o lembrete! (27/10 às 18H30)***
+***#4 Lançamento do Bootcam e Encerramento da Imersão p - ative o lembrete! (27/10 às 18H30)*** :x:
 
 
 ### CONTATO: :mailbox_with_no_mail:
