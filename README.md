@@ -149,7 +149,8 @@ Apresentados ao tão temido overfit e criada a discussão sobre overfit e os int
 
 ## DESAFIO FINAL
 
-Como avisamos na terceira aula, o desafio consta em explorar a base de dados do ENEM 2019. 
+O desafio consta em explorar a base de dados do ENEM 2019. 
+
 Crie um notebook com suas análises, capriche nos gráficos, crie hipótese e tire suas conclusões.
 
 ### Links e notebooks
