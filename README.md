@@ -43,6 +43,10 @@ Página em Construção !!!
   
 **Maria Gabriela Cuenca**
 - Student Experience
+                                                                              
+ <p align="center">
+  <img src=https://i.imgur.com/hhukfre.png?raw=true" alt="imagem" width="600px" />
+ </p>
  
 # CONTEÚDO DAS AULAS:
 
