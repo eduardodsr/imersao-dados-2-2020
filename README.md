@@ -6,6 +6,8 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/imersao-dados-2-2020)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.Dimersao-dados-2-2020)
 
+Página em Construção !!!
+
 
 ## Cronograma 
 
@@ -165,14 +167,10 @@ Acesse o notebook da aula05.
 Link: https://colab.research.google.com/drive/1bTz5Fo6SA_spHWRQdsLU9qET6XIyhYy-?usp=sharing
 
 
-## OBS - Alguns lembretes e dicas:
+## Repositório Desenvolvidor Por:
 
-Se tiver dificuldades ao utilizar o Colab, acesse este artigo da Alura.
-No site do INEP você encontra a base completa.
-Faça os desafios deixados no final de cada aula.
-Nosso espaço de discussão será no Discord.
-Um guia rápido para o Pandas
-Bons estudos e até a próxima aula!
+**Eduardo da Silva Rodrigues
+
 
 ## LIVES
 
