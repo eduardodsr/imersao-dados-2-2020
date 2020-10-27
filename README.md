@@ -66,11 +66,15 @@ da educação brasileira.
 
 ### Links das base de dados:
 
-**Base com dados do ENEM** (https://github.com/eduardodsr/imersao-dados-2-2020/blob/master/MICRODADOS_ENEM_2019_SAMPLE_43278.csv). 
-- Essa já é uma amostra selecionada. Assim você não precisa trabalhar com 3 gigas de dados!
+**Base com dados do ENEM** 
+Essa já é uma amostra selecionada. Assim você não precisa trabalhar com 3 gigas de dados!
+https://github.com/eduardodsr/imersao-dados-2-2020/blob/master/MICRODADOS_ENEM_2019_SAMPLE_43278.csv
 
-**Dicionário de dados** (https://github.com/eduardodsr/imersao-dados-2-2020/tree/master/DICION%C3%81RIO).
-- É útil para entender o que cada coluna dos nossos dados representa.
+
+**Dicionário de dados** 
+É útil para entender o que cada coluna dos nossos dados representa.
+https://github.com/eduardodsr/imersao-dados-2-2020/tree/master/DICION%C3%81RIO
+
 
 ### Alguns lembretes e dicas:
 
@@ -141,7 +145,3 @@ Crie um notebook com suas análises, capriche nos gráficos, crie hipótese e ti
 ### :star: EDUARDO DA SILVA RODRIGUES :star:
 
 :point_right: eduardodsr@gmail.com :point_left: 
-
-
-
-
