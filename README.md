@@ -66,9 +66,12 @@ da educação brasileira.
 
 ### Links das base de dados:
 
-Base com dados do ENEM. Essa já é uma amostra selecionada. Assim você não precisa trabalhar com 3 gigas de dados!
-Dicionário de dados É útil para entender o que cada coluna dos nossos dados representa.
-A
+**Base com dados do ENEM** (https://github.com/eduardodsr/imersao-dados-2-2020/blob/master/MICRODADOS_ENEM_2019_SAMPLE_43278.csv). 
+Essa já é uma amostra selecionada. Assim você não precisa trabalhar com 3 gigas de dados!
+
+**Dicionário de dados** (https://github.com/eduardodsr/imersao-dados-2-2020/tree/master/DICION%C3%81RIO).
+É útil para entender o que cada coluna dos nossos dados representa.
+
 ### Alguns lembretes e dicas:
 
 - Se tiver dificuldades ao utilizar o Colab, acesse este artigo da Alura.
