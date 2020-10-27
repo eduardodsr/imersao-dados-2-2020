@@ -86,20 +86,17 @@ A
 
 Nessa aula avançaremos com nossas análises e discutiremos sobre visualização de dados, desde boas práticas até a utilização de uma nova ferramenta para gerar gráficos mais estilizados (seaborn).
 
-O dia de hoje está recheada de conteúdo e discussões interessantes, então vem com a gente apreveitar mais uma aula!
+### Links e notebooks
 
-As respostas para os desafios da aula 01 você encontra neste notebook, a maioria das soluções utilizaram conceitos ensinados em aula, entretanto é importante salientar que existe diversas maneiras de resolver os exercícios.
-
+- Link
 
 ## AULA 3 - Distribuições e Correlações entre notas
 
 A aula de hoje está cheia de discusões interessantes sobre nossos dados! Vamos analisar as distribuições de notas, suas relações usando gráficos de dispersão e discutiremos sobre correlação e causalidade.
 
-
 ### Links e notebooks
 
 - Link
-
 
 ## AULA 4 - Prevendo Notas com Machine Learning
 
@@ -116,7 +113,8 @@ Nessa aula vamos construir nosso primeiro modelo de Machine Learning, entender a
 Vamos mergulhar mais fundo no mundo do machine learning, discutiremos técnicas, como cross-validation, que ajudam a aumentar nossa confiança nos resultados dos modelos de machine learning e mostraremos para você o tão temido overfit acontecendo.
 
 ### Desfio Final
-Como avisamos na terceira aula, o desafio consta em explorar a base de dados do ENEM 2019. Crie um notebook com suas análises, capriche nos gráficos, crie hipótese e tire suas conclusões.
+Como avisamos na terceira aula, o desafio consta em explorar a base de dados do ENEM 2019. 
+Crie um notebook com suas análises, capriche nos gráficos, crie hipótese e tire suas conclusões.
 
 ### Links e notebooks
 
@@ -124,13 +122,13 @@ Como avisamos na terceira aula, o desafio consta em explorar a base de dados do 
 
 ## LIVES
 
-**#1 Carreira em Dados e Educação no Brasil**
+***#1 Carreira em Dados e Educação no Brasil***
 
-**#2 Data Science no Exterior**
+***#2 Data Science no Exterior***
 
-**#3 DataHackers, Storytelling e o Bootcamp Data Science Aplicada**
+***#3 DataHackers, Storytelling e o Bootcamp Data Science Aplicada***
 
-**#4 Lançamento do Bootcam e Encerramento da Imersão p - ative o lembrete! (27/10 às 18H30)**
+***#4 Lançamento do Bootcam e Encerramento da Imersão p - ative o lembrete! (27/10 às 18H30)***
 
 
 ### CONTATO: :mailbox_with_no_mail:
