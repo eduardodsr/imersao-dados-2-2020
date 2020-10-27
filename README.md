@@ -59,15 +59,10 @@ Na nossa análise de dados vamos descobrir curiosidades sobre inscritos no ENEM,
 formular hipóteses e gráficos de distribuição Box-plot para entender melhor alguns aspectos 
 da educação brasileira.
 
-### Para ver os exercícios e todo o conteúdo que foi dado em aula siga os seguites passos:
+### Links e notebooks:
 
-- Acesse o notebook da aula01
-Link: https://colab.research.google.com/drive/1zgZzt7w5cVNwTZg76aIKQ9f-ybr8SEr3?usp=sharing
+- Link !
 
-- Na parte superior esquerdo, clique em >File, logo depois em >Save a copy in Drive.
-- Se você não estiver logado em uma conta gmail, um pop-up solicitará que você crie ou faça login em uma conta google.
-- Feito o login, uma cópia da aula é criada em seu drive (pasta Colab Notebook, criada automaticamente).
-- Abra o notebook e boa diversão.
 
 ### Links das base de dados:
 
@@ -95,21 +90,6 @@ O dia de hoje está recheada de conteúdo e discussões interessantes, então ve
 
 As respostas para os desafios da aula 01 você encontra neste notebook, a maioria das soluções utilizaram conceitos ensinados em aula, entretanto é importante salientar que existe diversas maneiras de resolver os exercícios.
 
-### Para ver os exercícios e todo o conteúdo que foi dado em aula siga os seguites passos:
-
-Acesse o notebook da aula02.
-Link: https://colab.research.google.com/drive/1Z5BZDmU0voknsU75r-LkozQ9FRnBxEeM?usp=sharing
-
-- Na parte superior esquerdo, clique em >File, logo depois em >Save a copy in Drive.
-- Se você não estiver logado em uma conta gmail, um pop-up solicitará que você crie ou faça login de em uma conta google.
-- Feito o login uma cópia da aula é criada em seu drive (pasta Colab Notebook, criada automaticamente).
-- Abra o notebook e boa diversão.
-
-### Links das base de dados:
-
- - Base com dados do ENEM.
- Link: https://github.com/alura-cursos/imersao-dados-2-2020/blob/master/MICRODADOS_ENEM_2019_SAMPLE_43278.csv
-
 
 ## AULA 3 - Distribuições e Correlações entre notas
 
@@ -117,21 +97,9 @@ A aula de hoje está cheia de discusões interessantes sobre nossos dados! Vamos
 
 
 ### Links e notebooks
-As respostas para os desafios da aula 02 você encontra neste notebook, a maioria das soluções utilizaram conceitos ensinados em aula, entretanto é importante salientar que existe diversas maneiras de resolver os exercícios.
-Link: https://colab.research.google.com/drive/18PTAq-dRHZ5a03p-MsV2sg3PWlsEqI24?usp=sharing
 
-### Para ver os exercícios e todo o conteúdo que foi dado em aula siga os seguites passos:
+- Link
 
-- Acesse o notebook da aula03.
-- Na parte superior esquerdo, clique em >File, logo depois em >Save a copy in Drive.
-- Se você não estiver logado em uma conta gmail, um pop-up solicitará que você crie ou faça login em uma conta google.
-- Feito o login, uma cópia da aula é criada em seu drive (pasta Colab Notebook, criada automaticamente).
-- Abra o notebook e boa diversão.
-
-### Links das base de dados:
-
-Base com dados do ENEM.
-Link: https://github.com/alura-cursos/imersao-dados-2-2020/blob/master/MICRODADOS_ENEM_2019_SAMPLE_43278.csv
 
 ## AULA 4 - Prevendo Notas com Machine Learning
 
@@ -139,17 +107,8 @@ Link: https://github.com/alura-cursos/imersao-dados-2-2020/blob/master/MICRODADO
 Nessa aula vamos construir nosso primeiro modelo de Machine Learning, entender a diferença entre problemas de regressão e classificação e como avaliar nosso modelo, utilizando a biblioteca Scikit-Learning.
 
 ### Links e notebooks
-As respostas para os desafios da aula 03 você encontra neste notebook, a maioria das soluções utilizaram conceitos ensinados em aula, entretanto é importante salientar que existe diversas maneiras de resolver os exercícios.
 
-### Para ver os exercícios e todo o conteúdo que foi dado em aula siga os seguites passos:
-
-- Acesse o notebook da aula04.
-- Na parte superior esquerdo, clique em >File, logo depois em >Save a copy in Drive.
-- Se você não estiver logado em uma conta gmail, um pop-up solicitará que você crie ou faça login em uma conta google.
-- Feito o login, uma cópia da aula é criada em seu drive (pasta Colab Notebook, criada automaticamente).
-- Abra o notebook e boa diversão.
-- Base com dados do ENEM.
-
+- Link
 
 ## AULA 5 - Validação de modelo e Overfit
 
@@ -160,17 +119,8 @@ Vamos mergulhar mais fundo no mundo do machine learning, discutiremos técnicas,
 Como avisamos na terceira aula, o desafio consta em explorar a base de dados do ENEM 2019. Crie um notebook com suas análises, capriche nos gráficos, crie hipótese e tire suas conclusões.
 
 ### Links e notebooks
-As respostas para os desafios da aula 04 você encontra neste notebook, a maioria das soluções utilizaram conceitos ensinados em aula, entretanto é importante salientar que existe diversas maneiras de resolver os exercícios.
-Link: https://colab.research.google.com/drive/1GtJmX4zhBV2tktjsZzpPpS4W8muiZBQL?usp=sharing
 
-Acesse o notebook da aula05.
-Link: https://colab.research.google.com/drive/1bTz5Fo6SA_spHWRQdsLU9qET6XIyhYy-?usp=sharing
-
-
-## Repositório Desenvolvidor Por:
-
-**Eduardo da Silva Rodrigues
-
+- Link
 
 ## LIVES
 
@@ -181,4 +131,16 @@ Link: https://colab.research.google.com/drive/1bTz5Fo6SA_spHWRQdsLU9qET6XIyhYy-?
 **#3 DataHackers, Storytelling e o Bootcamp Data Science Aplicada**
 
 **#4 Lançamento do Bootcam e Encerramento da Imersão p - ative o lembrete! (27/10 às 18H30)**
+
+
+### CONTATO: :mailbox_with_no_mail:
+
+### 🐍 DESENVOLVEDOR PYTHON: 🐍
+
+### :star: EDUARDO DA SILVA RODRIGUES :star:
+
+:point_right: eduardodsr@gmail.com :point_left: 
+
+
+
 
