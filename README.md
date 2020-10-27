@@ -26,11 +26,11 @@
 - Link: https://www.alura.com.br/imersao-dados
 
 ## Conteúdo
-- Aula 1 - Dados da Educação
-- Aula 2 - Análise Exploratória
-- Aula 3 - Distribuições e Correlações
-- Aula 4 - Machine Learning
-- Aula 5 - Validação do Modelo
+- Aula 1 - **Dados da Educação**
+- Aula 2 - **Análise Exploratória**
+- Aula 3 - **Distribuições e Correlações**
+- Aula 4 - **Machine Learning**
+- Aula 5 - **Validação do Modelo**
 
 ##  Instrutores nessa Imersão
 
@@ -64,6 +64,13 @@ vamos utilizar diversas funcionalidades desta biblioteca para explorar dados da 
 Na nossa análise de dados vamos descobrir curiosidades sobre inscritos no ENEM, 
 formular hipóteses e gráficos de distribuição Box-plot para entender melhor alguns aspectos 
 da educação brasileira.
+
+### Objetivo
+
+**DIA 1 - Sua primeira análise de dados**
+
+Faça sua primeira análise de dados e já tire suas próprias conclusões criando gráficos e analisando algumas estatísticas.
+
 
 ### Resumo
 
@@ -104,6 +111,13 @@ https://github.com/eduardodsr/imersao-dados-2-2020/tree/master/DICION%C3%81RIO
 
 Nessa aula avançaremos com nossas análises e discutiremos sobre visualização de dados, desde boas práticas até a utilização de uma nova ferramenta para gerar gráficos mais estilizados (seaborn).
 
+### Objetivo
+
+**DIA 2 - Análise Exploratória de Dados**
+
+Entenda o que é e avance sua análise exploratória de dados criando novas visualizações que ajudam a entender estatísticas mais avançadas.
+
+
 ### Resumo
 
 Foi explorado mais o dataset, criando novas visualizações e análises para entender o que os dados podem nos trazer de idéias. Foram levantadas informações relevantes
@@ -119,6 +133,12 @@ como a diferença das notas de quem tinha ou não internet, assim como como era 
 
 A aula de hoje está cheia de discusões interessantes sobre nossos dados! Vamos analisar as distribuições de notas, suas relações usando gráficos de dispersão e discutiremos sobre correlação e causalidade.
 
+### Objetivo
+
+**DIA 3 - Entendendo o que é Machine Learning**
+
+Entenda o que é Machine Learning e crie seu primeiro modelo de capaz de prever notas.
+
 ### Resumo
 
 Foi analisado como eram as distribuições de notas em alguns parâmetros, suas relações com gráficos de disperção e realizada a discussão sobre causalidade e correlação.
@@ -133,6 +153,14 @@ Foi analisado como eram as distribuições de notas em alguns parâmetros, suas 
 
 Nessa aula vamos construir nosso primeiro modelo de Machine Learning, entender a diferença entre problemas de regressão e classificação e como avaliar nosso modelo, utilizando a biblioteca Scikit-Learning.
 
+
+### Objetivo
+
+**DIA 4 - Otimizando os hiperparâmetros**
+
+Teste novos modelos de Machine Learning e aprenda a escolher o mais adequado.
+
+
 ### Resumo
 
 Foi criado o primeiro modelo de machine learning para prever notas, entendemos a diferença entre a regressão e classificação e como avaliar o modelo usando a biblioteca do Scikit-Learning.
@@ -146,6 +174,13 @@ Foi criado o primeiro modelo de machine learning para prever notas, entendemos a
 ### Introdução
 
 Vamos mergulhar mais fundo no mundo do machine learning, discutiremos técnicas, como cross-validation, que ajudam a aumentar nossa confiança nos resultados dos modelos de machine learning e mostraremos para você o tão temido overfit acontecendo.
+
+### Objetivo
+
+**DIA 5 - Storytelling em Data Science**
+Você fez a análise exploratória dos dados do ENEM, tirou diversas conclusões e até criou um modelo de Machine Learning. 
+Todo esse trabalho precisa ser resumido de forma objetiva e clara. 
+Aprenda o que é Storytelling e organize suas conclusões criando um relatório incrível para seu portfólio.
 
 ### Resumo
 
@@ -162,6 +197,7 @@ Crie um notebook com suas análises, capriche nos gráficos, crie hipótese e ti
 ### Links e notebooks
 
 ``` link: ``` https://github.com/eduardodsr/imersao-dados-2-2020/tree/master/Aulas/
+
 
 ## LIVES
 
