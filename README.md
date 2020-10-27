@@ -34,7 +34,7 @@
 - Coordenador de Data Science Alura
  
 **Thainá Mariani**
-I- nstrutora Alura
+- Instrutora Alura
 
 **Guilherme Silveira**
 - Head de dados e inovação Alura
